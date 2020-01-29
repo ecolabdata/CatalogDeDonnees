@@ -11,7 +11,8 @@ et d'information de tous sur l'environnement
 Dans un souci d'efficacité il est indispensable de standardiser la description de ces données au travers de métadonnées
 et d'organiser la gestion de ces métadonnées dans des catalogues.
 
-Le W3C a publié un standard ([DCATv2](https://www.w3.org/TR/vocab-dcat-2/)) qui définit un vocabulaire RDF
+Le W3C a publié un standard ([DCATv2](https://www.w3.org/TR/vocab-dcat-2/))
+qui définit un vocabulaire de données liées (RDF)
 pour faciliter l'interopérabilité entre catalogues de données.
 La commission européenne a défini de son côté
 un [profil DCAT-APv2](https://joinup.ec.europa.eu/solution/dcat-application-profile-data-portals-europe/releases)
