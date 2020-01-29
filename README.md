@@ -9,7 +9,7 @@ et d'information de tous sur l'environnement
 ([Droit d'accès à l'information relative à l'environnement, livre Ier, titre II, chapitre IV du code de l'environnement](https://www.legifrance.gouv.fr/affichCodeArticle.do?cidTexte=LEGITEXT000006074220&idArticle=LEGIARTI000033140333&dateTexte=20200129)).
 
 Dans un souci d'efficacité il est indispensable de standardiser la description de ces données au travers de métadonnées
-et d'organiser la gestion de ces métadonnées.
+et d'organiser la gestion de ces métadonnées dans des catalogues.
 
 Le W3C a publié un standard ([DCATv2](https://www.w3.org/TR/vocab-dcat-2/)) qui définit un vocabulaire RDF
 pour faciliter l'interopérabilité entre catalogues de données.
