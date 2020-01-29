@@ -17,9 +17,9 @@ pour faciliter l'interopérabilité entre catalogues de données.
 La commission européenne a défini de son côté
 un [profil DCAT-APv2](https://joinup.ec.europa.eu/solution/dcat-application-profile-data-portals-europe/releases)
 s'appuyant sur DCATv2.
-La commission a aussi défini une [extension de DCAT-AP pour les données géographiques
-appelée GeoDCAT-AP](https://semiceu.github.io/GeoDCAT-AP/releases/1.0.1/geodcat-ap_1.0.1.pdf)
-et une [autre pour les données statistiques appelée statDCAT-AP](https://joinup.ec.europa.eu/release/statdcat-ap/101).
+ainsi qu'une [extension de DCAT-AP pour les données géographiques,
+appelée GeoDCAT-AP](https://semiceu.github.io/GeoDCAT-AP/releases/1.0.1/geodcat-ap_1.0.1.pdf),
+et une [autre pour les données statistiques, appelée statDCAT-AP](https://joinup.ec.europa.eu/release/statdcat-ap/101).
 
 Par ailleurs le W3C a publié un standard ([JSON-LDv1.1](https://www.w3.org/TR/json-ld11/)) pour publier
 des données liées en JSON comme micro-données.
